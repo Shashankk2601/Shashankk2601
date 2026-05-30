@@ -100,8 +100,9 @@ AI-Assisted SOC & Detection Engineering Lab
 
 📜 Certifications
 
-- Fortinet Certified Fundamentals in Cybersecurity (FCF)
-- Deloitte Australia Cyber Job Simulation — Cybersecurity
+
+- [Fortinet Certified Fundamentals in Cybersecurity (FCF)](https://drive.google.com/file/d/1ukTZct-buLij2h1ikH9qcq9DIBVtlsjZ/view)
+- [Deloitte Australia Cyber Job Simulation — Cybersecurity](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_3zmqNpzDqDyNtPxFS_1776963692327_completion_certificate.pdf)
 
 ---
 
@@ -120,7 +121,7 @@ AI-Assisted SOC & Detection Engineering Lab
 📧 Email: kps.choubey@gmail.com
 
 💼 LinkedIn:
-linkedin.com/in/shashank-choubey-8836843bb
+http://www.linkedin.com/in/shashank-choubey-8836843bb
 
 💻 GitHub:
-github.com/Shashankk2601
+https://github.com/Shashankk2601
