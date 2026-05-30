@@ -78,7 +78,7 @@ Cybersecurity Intern | Rasheed Foundation
 AWS Security Posture Assessment & Targeted Remediation
 
 🔗 Repository:
-github.com/Shashankk2601/aws-cloud-security-posture-assessment
+[github.com/Shashankk2601/aws-cloud-security-posture-assessment](https://github.com/Shashankk2601/aws-cloud-security-posture-assessment)
 
 - Executed a cloud security posture assessment using Prowler against the CIS AWS Foundations Benchmark
 - Performed 573 automated security checks across IAM, CloudTrail, and S3 controls
