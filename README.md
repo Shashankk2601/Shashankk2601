@@ -17,7 +17,7 @@ Building practical security projects focused on threat detection, security monit
 
 ---
 
-## 🎯 Current Focus
+<h2 align="center">🎯 Current Focus</h2>
 
 <p align="center">
 
@@ -113,7 +113,7 @@ Building practical security projects focused on threat detection, security monit
 
 ---
 
-<h2 align="center">⚙️ Programming </h2>
+<h2 align="center">⚙️ Programming & Automation</h2>
 
 <p align="center">
 
