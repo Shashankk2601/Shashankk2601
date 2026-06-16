@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Shashank Choubey</h1>
 
 <h3 align="center"> Security Operations | SIEM & Detection Engineering | Cloud Security</h3>
@@ -130,7 +129,7 @@ Building practical security projects focused on threat detection, security monit
 
 <p align="center">
 <img width="1536" height="1024" alt="AWS_Security_Posture_Assessment_Workflow" src="https://github.com/user-attachments/assets/fde6fb22-c14d-4d66-9ac0-f0c2aae24e15" />
-" width="850">
+
 </p>
 
 ### Highlights
@@ -224,11 +223,15 @@ https://github.com/Shashankk2601/aws-cloud-security-posture-assessment
 
 # 📜 Certifications
 
-<p>
+<p align="center">
 
-<img src="https://img.shields.io/badge/Fortinet-Certified%20Fundamentals%20in%20Cybersecurity-red?style=for-the-badge">
+<a href="https://drive.google.com/file/d/1ukTZct-buLij2h1ikH9qcq9DIBVtlsjZ/view">
+<img src="https://img.shields.io/badge/Fortinet-FCF-red?style=for-the-badge&logo=fortinet">
+</a>
 
-<img src="https://img.shields.io/badge/Deloitte-Cyber%20Job%20Simulation-blue?style=for-the-badge">
+<a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_3zmqNpzDqDyNtPxFS_1776963692327_completion_certificate.pdf">
+<img src="https://img.shields.io/badge/Deloitte-Cyber%20Simulation-blue?style=for-the-badge">
+</a>
 
 </p>
 
@@ -254,4 +257,4 @@ https://github.com/Shashankk2601/aws-cloud-security-posture-assessment
 </p>
 
 ---
-💼 Open to SOC Analyst, Security Analyst and Cloud Security opportunities.
+🚀 Building practical experience in SOC Operations, Threat Detection, Cloud Security, and AI-Assisted Security Monitoring while actively exploring opportunities in cybersecurity.
