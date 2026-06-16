@@ -1,16 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Shashank Choubey</h1>
 
-<h3 align="center">Cybersecurity Analyst | SOC Operations | Detection Engineering | Cloud Security</h3>
+<h3 align="center"> Security Operations | SIEM & Detection Engineering | Cloud Security</h3>
 
 <p align="center">
 Building practical security projects focused on threat detection, security monitoring, cloud security, incident investigation, and AI-assisted SOC workflows.
 </p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Shashankk2601&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -25,75 +20,105 @@ Building practical security projects focused on threat detection, security monit
 
 ## 🎯 Current Focus
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/SOC%20Operations-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Threat%20Detection-green?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Detection%20Engineering-red?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Cloud%20Security-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Threat%20Monitoring-green?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Incident%20Investigation-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI%20for%20Security-black?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/AI--Assisted%20Security-black?style=for-the-badge">
 
 </p>
 
 ---
 
-# 🛠️ Tech Stack
+<h2 align="center">🛡️ Security Stack</h2>
 
-## Security Operations & Monitoring
+<p align="center">
 
-<p>
+<img src="https://img.shields.io/badge/Wazuh-SIEM-0265DC?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Wazuh-SIEM-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Sysmon-Endpoint%20Monitoring-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Suricata-IDS-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/Zabbix-Monitoring-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Grafana-Visualization-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Suricata-IDS-EF3B2D?style=for-the-badge">
 
-</p>
+<img src="https://img.shields.io/badge/Sysmon-Windows%20Telemetry-CC0000?style=for-the-badge">
 
----
+<img src="https://img.shields.io/badge/Zabbix-Monitoring-D40000?style=for-the-badge">
 
-## Security Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Nmap-Reconnaissance-lightgrey?style=for-the-badge">
-<img src="https://img.shields.io/badge/OpenVAS-Vulnerability%20Assessment-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/Metasploit-Penetration%20Testing-blueviolet?style=for-the-badge">
-<img src="https://img.shields.io/badge/Prowler-AWS%20Security-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Grafana-Visualization-F46800?style=for-the-badge&logo=grafana">
 
 </p>
 
 ---
 
-## Cloud & Systems
+<h2 align="center">🔐 Security Tools</h2>
 
-<p>
+<p align="center">
 
-<img src="https://img.shields.io/badge/AWS-IAM-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/AWS-S3-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/AWS-CloudTrail-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/AWS-Config-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Prowler-AWS%20Security-FF9900?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Windows-Endpoint-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Nmap-Reconnaissance-4A4A4A?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/OpenVAS-Vulnerability%20Assessment-008000?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Metasploit-Penetration%20Testing-1F6FEB?style=for-the-badge">
 
 </p>
 
 ---
 
-## Networking & Scripting
+<h2 align="center">☁️ Cloud & Systems</h2>
 
-<p>
+<p align="center">
 
-<img src="https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/DNS-Networking-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/HTTP%2FHTTPS-Web-green?style=for-the-badge">
+<img src="https://skillicons.dev/icons?i=aws,linux,windows" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/IAM-Identity%20Management-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/S3-Secure%20Storage-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/CloudTrail-Logging%20%26%20Auditing-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Linux-System%20Administration-black?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Windows-Endpoint%20Security-blue?style=for-the-badge">
+
+</p>
+
+---
+
+<h2 align="center">🌐 Networking</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/TCP/IP-Networking-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/DNS-Name%20Resolution-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/HTTP%2FHTTPS-Web%20Protocols-green?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/SSH-Remote%20Access-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge">
+
+</p>
+
+---
+
+<h2 align="center">⚙️ Programming & Automation</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode" />
 
 </p>
 
@@ -104,7 +129,8 @@ Building practical security projects focused on threat detection, security monit
 ## AWS Cloud Security Posture Assessment & Targeted Remediation
 
 <p align="center">
-<img src="aws-project.png" width="850">
+<img width="1536" height="1024" alt="AWS_Security_Posture_Assessment_Workflow" src="https://github.com/user-attachments/assets/fde6fb22-c14d-4d66-9ac0-f0c2aae24e15" />
+" width="850">
 </p>
 
 ### Highlights
@@ -137,10 +163,6 @@ https://github.com/Shashankk2601/aws-cloud-security-posture-assessment
 ---
 
 # 🛡️ AI-Assisted SOC & Detection Engineering Lab
-
-<p align="center">
-<img src="soc-lab-architecture.png" width="850">
-</p>
 
 ### Components
 
@@ -210,27 +232,6 @@ https://github.com/Shashankk2601/aws-cloud-security-posture-assessment
 
 </p>
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shashankk2601&show_icons=true&theme=tokyonight">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankk2601&theme=tokyonight">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankk2601&layout=compact&theme=tokyonight">
-
-</p>
 
 ---
 
