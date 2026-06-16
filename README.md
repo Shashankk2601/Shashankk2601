@@ -5,7 +5,7 @@
 <p align="center">
 Building practical security projects focused on threat detection, security monitoring, cloud security, incident investigation, and AI-assisted SOC workflows.
 </p>
----
+
 
 ## 🚀 About Me
 
@@ -113,7 +113,7 @@ Building practical security projects focused on threat detection, security monit
 
 ---
 
-<h2 align="center">⚙️ Programming & Automation</h2>
+<h2 align="center">⚙️ Programming </h2>
 
 <p align="center">
 
