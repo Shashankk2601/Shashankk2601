@@ -1,127 +1,256 @@
-Shashank Choubey
 
-Cybersecurity Analyst | SOC Operations | Detection Engineering | Cloud Security
+<h1 align="center">Hi 👋, I'm Shashank Choubey</h1>
 
-Building practical security projects focused on cloud security, threat detection, security monitoring, and incident investigation.
+<h3 align="center">Cybersecurity Analyst | SOC Operations | Detection Engineering | Cloud Security</h3>
 
----
+<p align="center">
+Building practical security projects focused on threat detection, security monitoring, cloud security, incident investigation, and AI-assisted SOC workflows.
+</p>
 
-👨‍💻 About Me
-
-Cybersecurity graduate with hands-on experience in cloud infrastructure monitoring, security analysis, vulnerability assessment, and Linux administration across AWS and Linux environments. Worked on infrastructure visibility, security remediation, cloud security assessments, and operational monitoring initiatives supporting large-scale cloud-hosted systems. Currently focused on building practical projects in Security Operations, Detection Engineering, and Cloud Security.
-
-🎓 Education
-
-- B.Sc. Computer Science — SIES College of Arts, Science & Commerce, Navi Mumbai (CGPA: 8.2)
-- Minor in Cybersecurity & Ethical Hacking — IIT Mandi (CGPA: 7.9)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shashankk2601&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
-🎯 Focus Areas
+## 🚀 About Me
 
-- Security Operations Center (SOC)
-- Detection Engineering
-- Cloud Security
-- Threat Monitoring
-- Incident Investigation
-- Vulnerability Assessment
-- Security Monitoring
-- Linux Security
+🔹 Cybersecurity graduate with hands-on experience in Cloud Security, Security Operations, Detection Engineering, Linux Administration, and Vulnerability Assessment.
+
+🔹 Interested in building practical security projects that simulate real-world security operations and cloud security workflows.
+
+🔹 Currently building an **AI-Assisted SOC & Detection Engineering Lab** using Wazuh, Sysmon, Suricata, MITRE ATT&CK, and Local LLMs.
 
 ---
 
-🛠️ Technical Skills
+## 🎯 Current Focus
 
-Security Operations
+<p align="left">
 
-SOC Operations • Threat Monitoring • Incident Investigation • Detection Engineering • Vulnerability Assessment • Security Auditing • MITRE ATT&CK • CIS Benchmarks
+<img src="https://img.shields.io/badge/SOC%20Operations-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Detection%20Engineering-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cloud%20Security-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Threat%20Monitoring-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Incident%20Investigation-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI%20for%20Security-black?style=for-the-badge">
 
-SIEM & Monitoring
-
-Wazuh SIEM • Zabbix • Sysmon • Suricata IDS • Grafana • Log Analysis
-
-Security Tools
-
-Wireshark • Nmap • OpenVAS • Metasploit • Prowler
-
-Cloud & Systems
-
-AWS IAM • EC2 • S3 • CloudTrail • AWS Config • Linux • Windows
-
-Networking & Scripting
-
-TCP/IP • DNS • HTTP/S • SSH • Python
+</p>
 
 ---
 
-💼 Experience
+# 🛠️ Tech Stack
 
-Linux System Administrator Intern | Netcore Cloud
+## Security Operations & Monitoring
 
-- Deployed and configured Zabbix monitoring across 100+ AWS-hosted Linux servers
-- Investigated infrastructure performance issues and high memory utilization incidents
-- Remediated publicly exposed phpinfo() instances on internet-facing infrastructure
-- Supported SSL certificate monitoring and renewal activities for production domains
-- Tagged AWS resources across multiple regions to improve visibility and FinOps tracking
-- Contributed to operational efficiency initiatives across AWS and GCP environments
+<p>
 
-Cybersecurity Intern | Rasheed Foundation
+<img src="https://img.shields.io/badge/Wazuh-SIEM-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Sysmon-Endpoint%20Monitoring-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Suricata-IDS-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Zabbix-Monitoring-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Grafana-Visualization-orange?style=for-the-badge">
 
-- Conducted vulnerability assessments on web and network targets using Nmap, OpenVAS, and Metasploit; documented findings with CVSS severity ratings and remediation guidance
-- Performed web application security testing against OWASP Top 10 vulnerabilities including SQLi and XSS on OWASP Juice Shop; utilized SQLMap for SQL injection testing and analyzed network traffic using Wireshark to identify reconnaissance activity
-- Delivered structured penetration testing reports mapping vulnerabilities to business risk and remediation recommendations
+</p>
 
 ---
 
-📂 Featured Project
+## Security Tools
 
-AWS Security Posture Assessment & Targeted Remediation
+<p>
+
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Nmap-Reconnaissance-lightgrey?style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenVAS-Vulnerability%20Assessment-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Metasploit-Penetration%20Testing-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/Prowler-AWS%20Security-orange?style=for-the-badge">
+
+</p>
+
+---
+
+## Cloud & Systems
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS-IAM-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/AWS-S3-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/AWS-CloudTrail-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/AWS-Config-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Windows-Endpoint-blue?style=for-the-badge">
+
+</p>
+
+---
+
+## Networking & Scripting
+
+<p>
+
+<img src="https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/DNS-Networking-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/HTTP%2FHTTPS-Web-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/SSH-Remote%20Access-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge">
+
+</p>
+
+---
+
+# ☁️ Featured Project
+
+## AWS Cloud Security Posture Assessment & Targeted Remediation
+
+<p align="center">
+<img src="aws-project.png" width="850">
+</p>
+
+### Highlights
+
+✅ 573 CIS AWS Security Checks
+
+✅ 141 Failed Controls Identified
+
+✅ Python-Based Risk Prioritization Workflow
+
+✅ 75% Reduction in Critical Findings
+
+✅ 77% Reduction in High Findings
+
+### Technologies
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Prowler-Security-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=for-the-badge">
+
+</p>
 
 🔗 Repository:
-[github.com/Shashankk2601/aws-cloud-security-posture-assessment](https://github.com/Shashankk2601/aws-cloud-security-posture-assessment)
 
-- Executed a cloud security posture assessment using Prowler against the CIS AWS Foundations Benchmark
-- Performed 573 automated security checks across IAM, CloudTrail, and S3 controls
-- Identified and prioritized 10 HIGH and CRITICAL findings from 240 raw findings using attacker-impact analysis
-- Implemented remediation measures including MFA enforcement, CloudTrail multi-region logging, and S3 policy hardening
-- Validation scans confirmed a 75% reduction in critical findings and 77% reduction in high findings
+https://github.com/Shashankk2601/aws-cloud-security-posture-assessment
 
 ---
 
-🚀 Currently Building
+# 🛡️ AI-Assisted SOC & Detection Engineering Lab
 
-AI-Assisted SOC & Detection Engineering Lab
+<p align="center">
+<img src="soc-lab-architecture.png" width="850">
+</p>
 
-- Building a SOC homelab using Wazuh SIEM, Sysmon, and Suricata IDS for centralized logging, alert monitoring, and incident investigation workflows
-- Simulating adversary activity from Kali Linux and mapping detections to MITRE ATT&CK tactics and techniques for detection engineering practice
-- Integrating Ollama-based local LLM workflows for alert summarization, incident timeline generation, and false-positive reduction
+### Components
+
+<p>
+
+<img src="https://img.shields.io/badge/Wazuh-SIEM-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Sysmon-Telemetry-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Suricata-IDS-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Kali-Attacker-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Ollama-LLM-purple?style=for-the-badge">
+
+</p>
+
+### Current Progress
+
+| Component | Status |
+|------------|---------|
+| Wazuh SIEM | ✅ |
+| Windows Endpoint | ✅ |
+| Sysmon | ✅ |
+| Suricata IDS | 🔄 |
+| Threat Intelligence Enrichment | ⏳ |
+| AI Alert Triage | ⏳ |
+
+### Planned Features
+
+- Brute Force Detection
+- Nmap Detection
+- PowerShell Detection
+- Threat Intelligence Enrichment
+- Alert Correlation
+- AI Alert Summarization
+- False Positive Reduction
 
 ---
 
-📜 Certifications
+# 💼 Experience
 
+## Linux System Administrator Intern — Netcore Cloud
 
-- [Fortinet Certified Fundamentals in Cybersecurity (FCF)](https://drive.google.com/file/d/1ukTZct-buLij2h1ikH9qcq9DIBVtlsjZ/view)
-- [Deloitte Australia Cyber Job Simulation — Cybersecurity](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_3zmqNpzDqDyNtPxFS_1776963692327_completion_certificate.pdf)
-
----
-
-🎯 Professional Interests
-
-- Security Operations (SOC)
-- Detection Engineering
-- Cloud Security
-- Threat Detection & Monitoring
-- Incident Investigation
+- Deployed Zabbix monitoring across 100+ AWS-hosted Linux servers
+- Investigated infrastructure performance and memory utilization issues
+- Remediated publicly exposed phpinfo() instances
+- Supported SSL certificate monitoring and renewals
+- Improved AWS resource visibility and tagging
 
 ---
 
-📫 Connect With Me
+## Cybersecurity Intern — Rasheed Foundation
 
-📧 Email: kps.choubey@gmail.com
+- Conducted vulnerability assessments using OpenVAS, Nmap, and Metasploit
+- Performed OWASP Top 10 testing against OWASP Juice Shop
+- Tested SQL Injection and XSS vulnerabilities
+- Analyzed network traffic using Wireshark
+- Delivered security reports with remediation guidance
 
-💼 LinkedIn:
-http://www.linkedin.com/in/shashank-choubey-8836843bb
+---
 
-💻 GitHub:
-https://github.com/Shashankk2601
+# 📜 Certifications
+
+<p>
+
+<img src="https://img.shields.io/badge/Fortinet-Certified%20Fundamentals%20in%20Cybersecurity-red?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Deloitte-Cyber%20Job%20Simulation-blue?style=for-the-badge">
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shashankk2601&show_icons=true&theme=tokyonight">
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankk2601&theme=tokyonight">
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankk2601&layout=compact&theme=tokyonight">
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="mailto:kps.choubey@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/shashank-choubey-8836843bb">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Shashankk2601">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge">
+</a>
+
+</p>
+
+---
+💼 Open to SOC Analyst, Security Analyst and Cloud Security opportunities.
